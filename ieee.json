@@ -1,0 +1,3178 @@
+{
+  "userInfo": {
+    "institute": false,
+    "member": false,
+    "individual": false,
+    "guest": false,
+    "subscribedContent": false,
+    "fileCabinetContent": false,
+    "fileCabinetUser": false,
+    "institutionalFileCabinetUser": false,
+    "ip": "61.148.244.135",
+    "showPatentCitations": true,
+    "showGet802Link": false
+  },
+  "records": [
+    {
+      "authors": [
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Mansoor Shafi",
+          "normalizedName": "M. Shafi",
+          "firstName": "Mansoor",
+          "lastName": "Shafi",
+          "searchablePreferredName": "Mansoor Shafi",
+          "id": 37266584000
+        },
+        {
+          "preferredName": "Andreas F. Molisch",
+          "normalizedName": "A. F. Molisch",
+          "firstName": "Andreas F.",
+          "lastName": "Molisch",
+          "searchablePreferredName": "Andreas F. Molisch",
+          "id": 37279677800
+        },
+        {
+          "preferredName": "Mischa Dohler",
+          "normalizedName": "M. Dohler",
+          "firstName": "Mischa",
+          "lastName": "Dohler",
+          "searchablePreferredName": "Mischa Dohler",
+          "id": 37273439700
+        },
+        {
+          "preferredName": "Henrik Sjöland",
+          "normalizedName": "H. Sjöland",
+          "firstName": "Henrik",
+          "lastName": "Sjöland",
+          "searchablePreferredName": "Henrik Sjöland",
+          "id": 37323267000
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": { "type": "open-access", "message": "Open Access" },
+      "documentLink": "/document/9390169/",
+      "articleNumber": "9390169",
+      "doi": "10.1109/JPROC.2021.3061701",
+      "citationCount": 0,
+      "isNumber": "9460558",
+      "publicationYear": "2021",
+      "volume": "109",
+      "issue": "7",
+      "publicationNumber": "5",
+      "downloadCount": 20021,
+      "htmlLink": "/document/9390169/",
+      "showHtml": true,
+      "endPage": "1199",
+      "startPage": "1166",
+      "rightslinkFlag": false,
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "6G Wireless Systems: Vision, Requirements, Challenges, Insights, and Opportunities",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=5",
+      "pdfSize": "3784",
+      "publicationDate": "July 2021",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "6G Wireless Systems: Vision, Requirements, Challenges, Insights, and Opportunities",
+      "abstract": "Mobile communications have been undergoing a generational change every ten years or so. However, the time difference between the so-called “G’s” is also decreasing. While fifth-generation (5G) systems are becoming a commercial reality, there is already significant interest in systems beyond 5G, which we refer to as the sixth generation (6G) of wireless systems. In contrast to the already published...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9390169",
+      "publicationTitle": "Proceedings of the IEEE",
+      "displayPublicationTitle": "Proceedings of the IEEE",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Zhinong Ying",
+          "normalizedName": "Z. Ying",
+          "firstName": "Zhinong",
+          "lastName": "Ying",
+          "searchablePreferredName": "Zhinong Ying",
+          "id": 37305489700
+        },
+        {
+          "preferredName": "Kun Zhao",
+          "normalizedName": "K. Zhao",
+          "firstName": "Kun",
+          "lastName": "Zhao",
+          "searchablePreferredName": "Kun Zhao",
+          "id": 38503528800
+        },
+        {
+          "preferredName": "Erik Bengtsson",
+          "normalizedName": "E. Bengtsson",
+          "firstName": "Erik",
+          "lastName": "Bengtsson",
+          "searchablePreferredName": "Erik Bengtsson",
+          "id": 37085691363
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9329997/",
+      "articleNumber": "9329997",
+      "doi": "10.1109/IEEECONF35879.2020.9329997",
+      "citationCount": 0,
+      "isNumber": "9329362",
+      "publicationYear": "2020",
+      "publicationNumber": "9329358",
+      "downloadCount": 139,
+      "htmlLink": "/document/9329997/",
+      "showHtml": true,
+      "endPage": "56",
+      "startPage": "55",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Design+of+Switched+Antenna+Arrays+for+a+28+GHz+Propagation+Channel+Sounder&isbn=null&publicationDate=5-10+July+2020&author=Zhinong+Ying%3B+Kun+Zhao%3B+Erik+Bengtsson%3B+Harsh+Tataria%3B+Fredrik+Tufvesson&ContentID=10.1109/IEEECONF35879.2020.9329997&orderBeanReset=true&startPage=55&endPage=56&proceedingName=2020+IEEE+International+Symposium+on+Antennas+and+Propagation+and+North+American+Radio+Science+Meeting",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Design of Switched Antenna Arrays for a 28 GHz Propagation Channel Sounder",
+      "publicationLink": "/xpl/conhome/9329358/proceeding",
+      "pdfSize": "390",
+      "publicationDate": "5-10 July 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Design of Switched Antenna Arrays for a 28 GHz Propagation Channel Sounder",
+      "abstract": "A channel sounder is an advanced measurement system to estimate the behavior of wireless propagation channels. In this paper, we present the antenna array design for a 28GHz massive multiple-input multiple-output system, capable of measuring 256×128 dual-polarized channels, including dynamic properties of angular, delay, Doppler, and polarization parameters, respectively. Unique in comparison to o...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9329997",
+      "publicationTitle": "2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting",
+      "displayPublicationTitle": "2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Chelsea Miller",
+          "normalizedName": "C. Miller",
+          "firstName": "Chelsea",
+          "lastName": "Miller",
+          "searchablePreferredName": "Chelsea Miller",
+          "id": 37086880304
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37085365018
+        },
+        {
+          "preferredName": "Pawel A. Dmochowski",
+          "normalizedName": "P. A. Dmochowski",
+          "firstName": "Pawel A.",
+          "lastName": "Dmochowski",
+          "searchablePreferredName": "Pawel A. Dmochowski",
+          "id": 37268189500
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Andreas F. Molisch",
+          "normalizedName": "A. F. Molisch",
+          "firstName": "Andreas F.",
+          "lastName": "Molisch",
+          "searchablePreferredName": "Andreas F. Molisch",
+          "id": 37279677800
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9217231/",
+      "articleNumber": "9217231",
+      "doi": "10.1109/PIMRC48278.2020.9217231",
+      "citationCount": 0,
+      "isNumber": "9217048",
+      "publicationYear": "2020",
+      "publicationNumber": "9210501",
+      "downloadCount": 59,
+      "htmlLink": "/document/9217231/",
+      "showHtml": true,
+      "endPage": "7",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Favorable+Propagation+with+User+Cluster+Sharing&isbn=null&publicationDate=31+Aug.-3+Sept.+2020&author=Chelsea+Miller%3B+Peter+J.+Smith%3B+Pawel+A.+Dmochowski%3B+Harsh+Tataria%3B+Andreas+F.+Molisch&ContentID=10.1109/PIMRC48278.2020.9217231&orderBeanReset=true&startPage=1&endPage=7&proceedingName=2020+IEEE+31st+Annual+International+Symposium+on+Personal%2C+Indoor+and+Mobile+Radio+Communications",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Favorable Propagation with User Cluster Sharing",
+      "publicationLink": "/xpl/conhome/9210501/proceeding",
+      "pdfSize": "364",
+      "publicationDate": "31 Aug.-3 Sept. 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Favorable Propagation with User Cluster Sharing",
+      "abstract": "We examine the favorable propagation (FP) behavior of a massive multi-user multiple-input-multiple-output (MU-MIMO) system equipped with a uniform linear array (ULA), horizontal uniform rectangular array (HURA) or uniform circular array (UCA) using a ray-based channel model with user cluster sharing. We demonstrate FP for these systems and provide analytical expressions for the mean-squared distan...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9217231",
+      "publicationTitle": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications",
+      "displayPublicationTitle": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Guoda Tian",
+          "normalizedName": "G. Tian",
+          "firstName": "Guoda",
+          "lastName": "Tian",
+          "searchablePreferredName": "Guoda Tian",
+          "id": 37088488218
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9148962/",
+      "articleNumber": "9148962",
+      "doi": "10.1109/ICC40277.2020.9148962",
+      "citationCount": 0,
+      "isNumber": "9148588",
+      "publicationYear": "2020",
+      "publicationNumber": "9141367",
+      "downloadCount": 109,
+      "htmlLink": "/document/9148962/",
+      "showHtml": true,
+      "endPage": "7",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Amplitude+and+Phase+Estimation+for+Absolute+Calibration+of+Massive+MIMO+Front-Ends&isbn=null&publicationDate=7-11+June+2020&author=Guoda+Tian%3B+Harsh+Tataria%3B+Fredrik+Tufvesson&ContentID=10.1109/ICC40277.2020.9148962&orderBeanReset=true&startPage=1&endPage=7&proceedingName=ICC+2020+-+2020+IEEE+International+Conference+on+Communications+%28ICC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Amplitude and Phase Estimation for Absolute Calibration of Massive MIMO Front-Ends",
+      "publicationLink": "/xpl/conhome/9141367/proceeding",
+      "pdfSize": "243",
+      "publicationDate": "7-11 June 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Amplitude and Phase Estimation for Absolute Calibration of Massive MIMO Front-Ends",
+      "abstract": "Massive multiple-input multiple-output (MIMO) promises significantly higher performance relative to conventional multiuser systems. However, the promised gains of massive MIMO systems rely heavily on the accuracy of the absolute frontend calibration, as well as quality of channel estimates at the base station (BS). In this paper, we analyze user equipment-aided calibration mechanism to estimate th...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9148962",
+      "publicationTitle": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+      "displayPublicationTitle": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37085365018
+        },
+        {
+          "preferredName": "Pawel A. Dmochowski",
+          "normalizedName": "P. A. Dmochowski",
+          "firstName": "Pawel A.",
+          "lastName": "Dmochowski",
+          "searchablePreferredName": "Pawel A. Dmochowski",
+          "id": 37268189500
+        },
+        {
+          "preferredName": "Mark Hopper",
+          "normalizedName": "M. Hopper",
+          "firstName": "Mark",
+          "lastName": "Hopper",
+          "searchablePreferredName": "Mark Hopper",
+          "id": 37088482580
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9148905/",
+      "articleNumber": "9148905",
+      "doi": "10.1109/ICC40277.2020.9148905",
+      "citationCount": 0,
+      "isNumber": "9148588",
+      "publicationYear": "2020",
+      "publicationNumber": "9141367",
+      "downloadCount": 71,
+      "htmlLink": "/document/9148905/",
+      "showHtml": true,
+      "endPage": "6",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=SNAP+%E2%80%93+POP+for+Massive+MIMO+Systems&isbn=null&publicationDate=7-11+June+2020&author=Peter+J.+Smith%3B+Pawel+A.+Dmochowski%3B+Mark+Hopper%3B+Harsh+Tataria&ContentID=10.1109/ICC40277.2020.9148905&orderBeanReset=true&startPage=1&endPage=6&proceedingName=ICC+2020+-+2020+IEEE+International+Conference+on+Communications+%28ICC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "SNAP – POP for Massive MIMO Systems",
+      "publicationLink": "/xpl/conhome/9141367/proceeding",
+      "pdfSize": "620",
+      "publicationDate": "7-11 June 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "SNAP – POP for Massive MIMO Systems",
+      "abstract": "Massive multiple-input multiple-output (MIMO) has gained a tremendous amount of attention as a key enabler of fifth-generation cellular systems. The majority of the vast literature on massive MIMO is based on fully digital processing, where each antenna element in the massive array is equipped with an up/down-conversion chain. Unlike previous works, we present a suite of greedy algorithms using pu...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9148905",
+      "publicationTitle": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+      "displayPublicationTitle": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Mansoor Shafi",
+          "normalizedName": "M. Shafi",
+          "firstName": "Mansoor",
+          "lastName": "Shafi",
+          "searchablePreferredName": "Mansoor Shafi",
+          "id": 37266584000
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Andreas F. Molisch",
+          "normalizedName": "A. F. Molisch",
+          "firstName": "Andreas F.",
+          "lastName": "Molisch",
+          "searchablePreferredName": "Andreas F. Molisch",
+          "id": 37279677800
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        },
+        {
+          "preferredName": "Geoff Tunnicliffe",
+          "normalizedName": "G. Tunnicliffe",
+          "firstName": "Geoff",
+          "lastName": "Tunnicliffe",
+          "searchablePreferredName": "Geoff Tunnicliffe",
+          "id": 37088484563
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9148902/",
+      "articleNumber": "9148902",
+      "doi": "10.1109/ICC40277.2020.9148902",
+      "citationCount": 2,
+      "isNumber": "9148588",
+      "publicationYear": "2020",
+      "publicationNumber": "9141367",
+      "downloadCount": 126,
+      "htmlLink": "/document/9148902/",
+      "citationsLink": "/document/9148902/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "7",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Real-Time+Deployment+Aspects+of+C-Band+and+Millimeter-Wave+5G-NR+Systems&isbn=null&publicationDate=7-11+June+2020&author=Mansoor+Shafi%3B+Harsh+Tataria%3B+Andreas+F.+Molisch%3B+Fredrik+Tufvesson%3B+Geoff+Tunnicliffe&ContentID=10.1109/ICC40277.2020.9148902&orderBeanReset=true&startPage=1&endPage=7&proceedingName=ICC+2020+-+2020+IEEE+International+Conference+on+Communications+%28ICC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Real-Time Deployment Aspects of C-Band and Millimeter-Wave 5G-NR Systems",
+      "publicationLink": "/xpl/conhome/9141367/proceeding",
+      "pdfSize": "641",
+      "publicationDate": "7-11 June 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Real-Time Deployment Aspects of C-Band and Millimeter-Wave 5G-NR Systems",
+      "abstract": "Fifth-generation (5G) new radio (NR) deployments are being rolled out in both the C-band (3.3 - 5.0 GHz) and millimeter-wave (mmWave) band (24.5 - 29.5 GHz). For outdoor scenarios, the C-band is expected to provide wide area coverage and throughput uniformity, whereas the mmWave band is expected to provide ultra-high throughput to dedicated areas within the C-band coverage. Due to the differences ...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9148902",
+      "publicationTitle": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+      "displayPublicationTitle": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Grzegorz Wolosinski",
+          "normalizedName": "G. Wolosinski",
+          "firstName": "Grzegorz",
+          "lastName": "Wolosinski",
+          "searchablePreferredName": "Grzegorz Wolosinski",
+          "id": 37085887123
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Vincent Fusco",
+          "normalizedName": "V. Fusco",
+          "firstName": "Vincent",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent Fusco",
+          "id": 37276686900
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9135960/",
+      "articleNumber": "9135960",
+      "doi": "10.23919/EuCAP48036.2020.9135960",
+      "citationCount": 0,
+      "isNumber": "9135070",
+      "publicationYear": "2020",
+      "publicationNumber": "9127589",
+      "downloadCount": 102,
+      "htmlLink": "/document/9135960/",
+      "showHtml": true,
+      "endPage": "5",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Closed+Form+Characterization+of+Mutual+Coupling+in+Uniform+Linear+Arrays&isbn=null&publicationDate=15-20+March+2020&author=Grzegorz+Wolosinski%3B+Harsh+Tataria%3B+Vincent+Fusco&ContentID=10.23919/EuCAP48036.2020.9135960&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2020+14th+European+Conference+on+Antennas+and+Propagation+%28EuCAP%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Closed Form Characterization of Mutual Coupling in Uniform Linear Arrays",
+      "publicationLink": "/xpl/conhome/9127589/proceeding",
+      "pdfSize": "441",
+      "publicationDate": "15-20 March 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Closed Form Characterization of Mutual Coupling in Uniform Linear Arrays",
+      "abstract": "This paper proposes a pragmatic methodology to characterize mutual coupling in uniform linear arrays (ULAs). The classical coupling model used in the literature of multiple input multiple output (MIMO) antenna arrays is based on impedance parameters, resulting valid only for electromagnetically small antennas, e.g. short dipole. To test the robustness and accuracy of the proposed coupling model we...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9135960",
+      "publicationTitle": "2020 14th European Conference on Antennas and Propagation (EuCAP)",
+      "displayPublicationTitle": "2020 14th European Conference on Antennas and Propagation (EuCAP)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9135964/",
+      "articleNumber": "9135964",
+      "doi": "10.23919/EuCAP48036.2020.9135964",
+      "citationCount": 1,
+      "isNumber": "9135070",
+      "publicationYear": "2020",
+      "publicationNumber": "9127589",
+      "downloadCount": 88,
+      "htmlLink": "/document/9135964/",
+      "citationsLink": "/document/9135964/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "5",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Impact+of+Spatially+Consistent+Channels+on+Digital+Beamforming+for+Millimeter-Wave+Systems+%3A+%28Invited+Paper%29&isbn=null&publicationDate=15-20+March+2020&author=Harsh+Tataria%3B+Fredrik+Tufvesson&ContentID=10.23919/EuCAP48036.2020.9135964&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2020+14th+European+Conference+on+Antennas+and+Propagation+%28EuCAP%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Impact of Spatially Consistent Channels on Digital Beamforming for Millimeter-Wave Systems : (Invited Paper)",
+      "publicationLink": "/xpl/conhome/9127589/proceeding",
+      "pdfSize": "1005",
+      "publicationDate": "15-20 March 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Impact of Spatially Consistent Channels on Digital Beamforming for Millimeter-Wave Systems : (Invited Paper)",
+      "abstract": "The premise of massive multiple-input multiple-output (MIMO) is based around coherent transmission and detection. Majority of the vast literature on massive MIMO presents performance evaluations over simplified statistical propagation models. All such models are drop-based and do not ensure continuity of channel parameters. In this paper, we quantify the impact of spatially consistent (SC) models ...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9135964",
+      "publicationTitle": "2020 14th European Conference on Antennas and Propagation (EuCAP)",
+      "displayPublicationTitle": "2020 14th European Conference on Antennas and Propagation (EuCAP)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        },
+        {
+          "preferredName": "Ove Edfors",
+          "normalizedName": "O. Edfors",
+          "firstName": "Ove",
+          "lastName": "Edfors",
+          "searchablePreferredName": "Ove Edfors",
+          "id": 37266577600
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9053897/",
+      "articleNumber": "9053897",
+      "doi": "10.1109/ICASSP40776.2020.9053897",
+      "citationCount": 3,
+      "isNumber": "9052899",
+      "publicationYear": "2020",
+      "publicationNumber": "9040208",
+      "downloadCount": 213,
+      "htmlLink": "/document/9053897/",
+      "citationsLink": "/document/9053897/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "9174",
+      "startPage": "9170",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Real-Time+Implementation+Aspects+of+Large+Intelligent+Surfaces&isbn=null&publicationDate=4-8+May+2020&author=Harsh+Tataria%3B+Fredrik+Tufvesson%3B+Ove+Edfors&ContentID=10.1109/ICASSP40776.2020.9053897&orderBeanReset=true&startPage=9170&endPage=9174&proceedingName=ICASSP+2020+-+2020+IEEE+International+Conference+on+Acoustics%2C+Speech+and+Signal+Processing+%28ICASSP%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Real-Time Implementation Aspects of Large Intelligent Surfaces",
+      "publicationLink": "/xpl/conhome/9040208/proceeding",
+      "pdfSize": "738",
+      "publicationDate": "4-8 May 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Real-Time Implementation Aspects of Large Intelligent Surfaces",
+      "abstract": "With the potential to provide a clean break from massive multiple-input multiple-output, large intelligent surfaces (LISs) have recently received a thrust of research interest. Various proposals have been made in the literature to define the exact functionality of LISs, ranging from fully active to largely passive solutions. Nevertheless, almost all studies in the literature investigate the fundam...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9053897",
+      "publicationTitle": "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "displayPublicationTitle": "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Shuang Li",
+          "normalizedName": "S. Li",
+          "firstName": "Shuang",
+          "lastName": "Li",
+          "searchablePreferredName": "Shuang Li",
+          "id": 37086640963
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37085365018
+        },
+        {
+          "preferredName": "Pawel A. Dmochowski",
+          "normalizedName": "P. A. Dmochowski",
+          "firstName": "Pawel A.",
+          "lastName": "Dmochowski",
+          "searchablePreferredName": "Pawel A. Dmochowski",
+          "id": 37268189500
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Jingwei Yin",
+          "normalizedName": "J. Yin",
+          "firstName": "Jingwei",
+          "lastName": "Yin",
+          "searchablePreferredName": "Jingwei Yin",
+          "id": 37086639863
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/9036073/",
+      "articleNumber": "9036073",
+      "doi": "10.1109/TWC.2020.2979146",
+      "citationCount": 3,
+      "isNumber": "9113811",
+      "publicationYear": "2020",
+      "volume": "19",
+      "issue": "6",
+      "publicationNumber": "7693",
+      "downloadCount": 400,
+      "htmlLink": "/document/9036073/",
+      "citationsLink": "/document/9036073/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "3991",
+      "startPage": "3977",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7693&title=Massive+MIMO+Asymptotics+for+Ray-Based+Propagation+Channels&isbn=null&publicationDate=June+2020&author=Shuang+Li%3B+Peter+J.+Smith%3B+Pawel+A.+Dmochowski%3B+Harsh+Tataria%3B+Michail+Matthaiou%3B+Jingwei+Yin&ContentID=10.1109/TWC.2020.2979146&orderBeanReset=true&startPage=3977&endPage=3991&volumeNum=19&issueNum=6",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Massive MIMO Asymptotics for Ray-Based Propagation Channels",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=7693",
+      "pdfSize": "1754",
+      "publicationDate": "June 2020",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "Massive MIMO Asymptotics for Ray-Based Propagation Channels",
+      "abstract": "Favorable propagation (FP) and channel hardening (CH) are desired properties in massive multiple-input multiple-output (MIMO) systems. To date, these properties have primarily been analyzed for classical statistical channel models, or ray-based models with very specific angular parameters and distributions. This paper presents a thorough mathematical analysis of the asymptotic system behavior for ...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9036073",
+      "publicationTitle": "IEEE Transactions on Wireless Communications",
+      "displayPublicationTitle": "IEEE Transactions on Wireless Communications",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Seun Sangodoyin",
+          "normalizedName": "S. Sangodoyin",
+          "firstName": "Seun",
+          "lastName": "Sangodoyin",
+          "searchablePreferredName": "Seun Sangodoyin",
+          "id": 38484879700
+        },
+        {
+          "preferredName": "Andreas F. Molisch",
+          "normalizedName": "A. F. Molisch",
+          "firstName": "Andreas F.",
+          "lastName": "Molisch",
+          "searchablePreferredName": "Andreas F. Molisch",
+          "id": 37279677800
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37275507300
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Jianzhong Zhang",
+          "normalizedName": "J. Zhang",
+          "firstName": "Jianzhong",
+          "lastName": "Zhang",
+          "searchablePreferredName": "Jianzhong Zhang",
+          "id": 37086383386
+        },
+        {
+          "preferredName": "Reiner. S. Thomä",
+          "normalizedName": "R. S. Thomä",
+          "firstName": "Reiner. S.",
+          "lastName": "Thomä",
+          "searchablePreferredName": "Reiner. S. Thomä",
+          "id": 37085391194
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8904875/",
+      "articleNumber": "8904875",
+      "doi": "10.1109/PIMRC.2019.8904875",
+      "citationCount": 1,
+      "isNumber": "8903626",
+      "publicationYear": "2019",
+      "publicationNumber": "8894566",
+      "downloadCount": 157,
+      "htmlLink": "/document/8904875/",
+      "citationsLink": "/document/8904875/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "7",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Channel+Correlation+Diversity+in+MU-MIMO+Systems+%E2%80%93+Analysis+and+Measurements&isbn=null&publicationDate=8-11+Sept.+2019&author=Harsh+Tataria%3B+Seun+Sangodoyin%3B+Andreas+F.+Molisch%3B+Peter+J.+Smith%3B+Michail+Matthaiou%3B+Jianzhong+Zhang%3B+Reiner.+S.+Thom%C3%A4&ContentID=10.1109/PIMRC.2019.8904875&orderBeanReset=true&startPage=1&endPage=7&proceedingName=2019+IEEE+30th+Annual+International+Symposium+on+Personal%2C+Indoor+and+Mobile+Radio+Communications+%28PIMRC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Channel Correlation Diversity in MU-MIMO Systems – Analysis and Measurements",
+      "publicationLink": "/xpl/conhome/8894566/proceeding",
+      "pdfSize": "1213",
+      "publicationDate": "8-11 Sept. 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Channel Correlation Diversity in MU-MIMO Systems – Analysis and Measurements",
+      "abstract": "In multiuser multiple-input multiple-output (MU-MIMO) systems, channel correlation is detrimental to system performance. We demonstrate that widely used, yet overly simplified, correlation models that generate identical correlation profiles for each terminal tend to severely underestimate the system performance. In sharp contrast, more physically motivated models that capture variations in the pow...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8904875",
+      "publicationTitle": "2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+      "displayPublicationTitle": "2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "M. Ali Babar Abbasi",
+          "normalizedName": "M. A. Babar Abbasi",
+          "firstName": "M. Ali",
+          "lastName": "Babar Abbasi",
+          "searchablePreferredName": "M. Ali Babar Abbasi",
+          "id": 37085426798
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Vincent F. Fusco",
+          "normalizedName": "V. F. Fusco",
+          "firstName": "Vincent F.",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent F. Fusco",
+          "id": 37276686900
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "George C. Alexandropoulos",
+          "normalizedName": "G. C. Alexandropoulos",
+          "firstName": "George C.",
+          "lastName": "Alexandropoulos",
+          "searchablePreferredName": "George C. Alexandropoulos",
+          "id": 37296684100
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8877347/",
+      "articleNumber": "8877347",
+      "doi": "10.1109/ISWCS.2019.8877347",
+      "citationCount": 0,
+      "isNumber": "8877095",
+      "publicationYear": "2019",
+      "publicationNumber": "8864033",
+      "downloadCount": 83,
+      "htmlLink": "/document/8877347/",
+      "showHtml": true,
+      "endPage": "504",
+      "startPage": "500",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Aggressive+RF+Circuit+Reduction+Techniques+in+Millimeter+Wave+Cellular+Systems&isbn=null&publicationDate=27-30+Aug.+2019&author=M.+Ali+Babar+Abbasi%3B+Harsh+Tataria%3B+Vincent+F.+Fusco%3B+Michail+Matthaiou%3B+George+C.+Alexandropoulos&ContentID=10.1109/ISWCS.2019.8877347&orderBeanReset=true&startPage=500&endPage=504&proceedingName=2019+16th+International+Symposium+on+Wireless+Communication+Systems+%28ISWCS%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Aggressive RF Circuit Reduction Techniques in Millimeter Wave Cellular Systems",
+      "publicationLink": "/xpl/conhome/8864033/proceeding",
+      "pdfSize": "4068",
+      "publicationDate": "27-30 Aug. 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Aggressive RF Circuit Reduction Techniques in Millimeter Wave Cellular Systems",
+      "abstract": "In this paper, we introduce a novel hybrid multiuser multiple-input multiple-output (MU-MIMO) architecture, with an emphasis on aggressive millimeter-wave (mmWave) hardware reduction methods, omitting the beam selection stage. We propose a simplification in a 28 GHz Rotman lens, where the number of its beam-ports are reduced relative to the array ports resulting in the removal of a bank of RF swit...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8877347",
+      "publicationTitle": "2019 16th International Symposium on Wireless Communication Systems (ISWCS)",
+      "displayPublicationTitle": "2019 16th International Symposium on Wireless Communication Systems (ISWCS)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Hien Quoc Ngo",
+          "normalizedName": "H. Q. Ngo",
+          "firstName": "Hien Quoc",
+          "lastName": "Ngo",
+          "searchablePreferredName": "Hien Quoc Ngo",
+          "id": 38231185300
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37275507300
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Shi Jin",
+          "normalizedName": "S. Jin",
+          "firstName": "Shi",
+          "lastName": "Jin",
+          "searchablePreferredName": "Shi Jin",
+          "id": 37086050478
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8815518/",
+      "articleNumber": "8815518",
+      "doi": "10.1109/SPAWC.2019.8815518",
+      "citationCount": 1,
+      "isNumber": "8815388",
+      "publicationYear": "2019",
+      "publicationNumber": "8790959",
+      "downloadCount": 214,
+      "htmlLink": "/document/8815518/",
+      "citationsLink": "/document/8815518/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "5",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Massive+MIMO+with+a+Generalized+Channel+Model%3A+Fundamental+Aspects&isbn=null&publicationDate=2-5+July+2019&author=Michail+Matthaiou%3B+Hien+Quoc+Ngo%3B+Peter+J.+Smith%3B+Harsh+Tataria%3B+Shi+Jin&ContentID=10.1109/SPAWC.2019.8815518&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2019+IEEE+20th+International+Workshop+on+Signal+Processing+Advances+in+Wireless+Communications+%28SPAWC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Massive MIMO with a Generalized Channel Model: Fundamental Aspects",
+      "publicationLink": "/xpl/conhome/8790959/proceeding",
+      "pdfSize": "182",
+      "publicationDate": "2-5 July 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Massive MIMO with a Generalized Channel Model: Fundamental Aspects",
+      "abstract": "Massive multiple-input multiple-output (MIMO) is becoming a mature technology, and has been approved for standardization in the 5G space. Although there are many papers on the theoretical analysis of massive MIMO, the majority of relevant work assumes the simplified, yet overly idealistic, Kronecker-type model for spatial correlation. Motivated by the deficiencies of the Kronecker model, we invoke...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8815518",
+      "publicationTitle": "2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+      "displayPublicationTitle": "2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Chelsea Lee Miller",
+          "normalizedName": "C. L. Miller",
+          "firstName": "Chelsea Lee",
+          "lastName": "Miller",
+          "searchablePreferredName": "Chelsea Lee Miller",
+          "id": 37086880304
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37085365018
+        },
+        {
+          "preferredName": "Pawel A. Dmochowski",
+          "normalizedName": "P. A. Dmochowski",
+          "firstName": "Pawel A.",
+          "lastName": "Dmochowski",
+          "searchablePreferredName": "Pawel A. Dmochowski",
+          "id": 37268189500
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8812955/",
+      "articleNumber": "8812955",
+      "doi": "10.1109/JSTSP.2019.2937635",
+      "citationCount": 4,
+      "isNumber": "8845828",
+      "publicationYear": "2019",
+      "volume": "13",
+      "issue": "5",
+      "publicationNumber": "4200690",
+      "downloadCount": 448,
+      "htmlLink": "/document/8812955/",
+      "citationsLink": "/document/8812955/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "1195",
+      "startPage": "1181",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=4200690&title=Analytical+Framework+for+Full-Dimensional+Massive+MIMO+With+Ray-Based+Channels&isbn=null&publicationDate=Sept.+2019&author=Chelsea+Lee+Miller%3B+Peter+J.+Smith%3B+Pawel+A.+Dmochowski%3B+Harsh+Tataria%3B+Michail+Matthaiou&ContentID=10.1109/JSTSP.2019.2937635&orderBeanReset=true&startPage=1181&endPage=1195&volumeNum=13&issueNum=5",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Analytical Framework for Full-Dimensional Massive MIMO With Ray-Based Channels",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=4200690",
+      "pdfSize": "1732",
+      "publicationDate": "Sept. 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "Analytical Framework for Full-Dimensional Massive MIMO With Ray-Based Channels",
+      "abstract": "The performance of baseband beamforming in multi-user multiple-input multiple-output (MU-MIMO) systems has been extensively studied for simplified statistical channel models where no angular parameters are taken into account. In contrast, there is little performance analysis with ray-based models, which are more physically motivated, feature prominently in standardization and have been experimenta...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8812955",
+      "publicationTitle": "IEEE Journal of Selected Topics in Signal Processing",
+      "displayPublicationTitle": "IEEE Journal of Selected Topics in Signal Processing",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Shuang Li",
+          "normalizedName": "S. Li",
+          "firstName": "Shuang",
+          "lastName": "Li",
+          "searchablePreferredName": "Shuang Li",
+          "id": 37086640963
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37275507300
+        },
+        {
+          "preferredName": "Pawel A. Dmochowski",
+          "normalizedName": "P. A. Dmochowski",
+          "firstName": "Pawel A.",
+          "lastName": "Dmochowski",
+          "searchablePreferredName": "Pawel A. Dmochowski",
+          "id": 37268189500
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Jingwei Yin",
+          "normalizedName": "J. Yin",
+          "firstName": "Jingwei",
+          "lastName": "Yin",
+          "searchablePreferredName": "Jingwei Yin",
+          "id": 37086639863
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8761057/",
+      "articleNumber": "8761057",
+      "doi": "10.1109/ICC.2019.8761057",
+      "citationCount": 6,
+      "isNumber": "8761046",
+      "publicationYear": "2019",
+      "publicationNumber": "8753818",
+      "downloadCount": 215,
+      "htmlLink": "/document/8761057/",
+      "citationsLink": "/document/8761057/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "7",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Massive+MIMO+for+Ray-Based+Channels&isbn=null&publicationDate=20-24+May+2019&author=Shuang+Li%3B+Peter+J.+Smith%3B+Pawel+A.+Dmochowski%3B+Harsh+Tataria%3B+Michail+Matthaiou%3B+Jingwei+Yin&ContentID=10.1109/ICC.2019.8761057&orderBeanReset=true&startPage=1&endPage=7&proceedingName=ICC+2019+-+2019+IEEE+International+Conference+on+Communications+%28ICC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Massive MIMO for Ray-Based Channels",
+      "publicationLink": "/xpl/conhome/8753818/proceeding",
+      "pdfSize": "492",
+      "publicationDate": "20-24 May 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "majorTopic": "CT-i1: Communication Theory (Interactive)",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Massive MIMO for Ray-Based Channels",
+      "abstract": "Favorable propagation (FP) and channel hardening are desired properties in massive multiple-input and multiple-output (MIMO) systems, where nearly optimal performance is achieved with linear processing techniques, such as maximalratio combining. To date, these properties have primarily been analyzed for classical statistical channel models, or ray-based models with very specific angular parameters...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8761057",
+      "publicationTitle": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+      "displayPublicationTitle": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Chelsea L. Miller",
+          "normalizedName": "C. L. Miller",
+          "firstName": "Chelsea L.",
+          "lastName": "Miller",
+          "searchablePreferredName": "Chelsea L. Miller",
+          "id": 37086880304
+        },
+        {
+          "preferredName": "Pawel A. Dmochowski",
+          "normalizedName": "P. A. Dmochowski",
+          "firstName": "Pawel A.",
+          "lastName": "Dmochowski",
+          "searchablePreferredName": "Pawel A. Dmochowski",
+          "id": 37268189500
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37275507300
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8761063/",
+      "articleNumber": "8761063",
+      "doi": "10.1109/ICC.2019.8761063",
+      "citationCount": 4,
+      "isNumber": "8761046",
+      "publicationYear": "2019",
+      "publicationNumber": "8753818",
+      "downloadCount": 153,
+      "htmlLink": "/document/8761063/",
+      "citationsLink": "/document/8761063/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "7",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Multi-User+Processing+for+Ray-Based+Channels&isbn=null&publicationDate=20-24+May+2019&author=Chelsea+L.+Miller%3B+Pawel+A.+Dmochowski%3B+Peter+J.+Smith%3B+Harsh+Tataria%3B+Michail+Matthaiou&ContentID=10.1109/ICC.2019.8761063&orderBeanReset=true&startPage=1&endPage=7&proceedingName=ICC+2019+-+2019+IEEE+International+Conference+on+Communications+%28ICC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Multi-User Processing for Ray-Based Channels",
+      "publicationLink": "/xpl/conhome/8753818/proceeding",
+      "pdfSize": "983",
+      "publicationDate": "20-24 May 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "majorTopic": "CT-6: MIMO",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Multi-User Processing for Ray-Based Channels",
+      "abstract": "The performance of linear multi-user multiple-input multiple-output (MU-MIMO) systems has been extensively studied for classical statistical channel models. In contrast, there is little analysis for ray-based models, which are physically motivated, feature prominently in standards and have been experimentally validated. Thus, we present a novel analytical framework for zero forcing (ZF) and maxima...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8761063",
+      "publicationTitle": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+      "displayPublicationTitle": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "M. Ali Babar Abbasi",
+          "normalizedName": "M. A. B. Abbasi",
+          "firstName": "M. Ali Babar",
+          "lastName": "Abbasi",
+          "searchablePreferredName": "M. Ali Babar Abbasi",
+          "id": 38526671300
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Vincent F. Fusco",
+          "normalizedName": "V. F. Fusco",
+          "firstName": "Vincent F.",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent F. Fusco",
+          "id": 37276686900
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8740186/",
+      "articleNumber": "8740186",
+      "citationCount": 0,
+      "isNumber": "8739246",
+      "publicationYear": "2019",
+      "publicationNumber": "8732300",
+      "downloadCount": 282,
+      "htmlLink": "/document/8740186/",
+      "showHtml": true,
+      "endPage": "4",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Performance+of+a+28+GHz+Two%E2%80%93Stage+Rotman+Lens+Beamformer+for+Millimeter+Wave+Cellular+Systems&isbn=null&publicationDate=31+March-5+April+2019&author=M.+Ali+Babar+Abbasi%3B+Harsh+Tataria%3B+Vincent+F.+Fusco%3B+Michail+Matthaiou&ContentID=&orderBeanReset=true&startPage=1&endPage=4&proceedingName=2019+13th+European+Conference+on+Antennas+and+Propagation+%28EuCAP%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Performance of a 28 GHz Two–Stage Rotman Lens Beamformer for Millimeter Wave Cellular Systems",
+      "publicationLink": "/xpl/conhome/8732300/proceeding",
+      "pdfSize": "1274",
+      "publicationDate": "31 March-5 April 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Performance of a 28 GHz Two–Stage Rotman Lens Beamformer for Millimeter Wave Cellular Systems",
+      "abstract": "Phase shifter-based hybrid beamforming has received a lot of attention at millimeter-wave frequencies for cellular communications. Nevertheless, the implementation complexity of such beamformers is rather high due to the complexities involved in designing and fabricating the required radio- frequency (RF) circuits. In contrast, lens-based RF beamformers significantly reduce the implementation comp...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8740186",
+      "publicationTitle": "2019 13th European Conference on Antennas and Propagation (EuCAP)",
+      "displayPublicationTitle": "2019 13th European Conference on Antennas and Propagation (EuCAP)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Muhammad Ali Babar Abbasi",
+          "normalizedName": "M. A. B. Abbasi",
+          "firstName": "Muhammad Ali Babar",
+          "lastName": "Abbasi",
+          "searchablePreferredName": "Muhammad Ali Babar Abbasi",
+          "id": 38526671300
+        },
+        {
+          "preferredName": "Vincent F. Fusco",
+          "normalizedName": "V. F. Fusco",
+          "firstName": "Vincent F.",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent F. Fusco",
+          "id": 37276686900
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8672826/",
+      "articleNumber": "8672826",
+      "doi": "10.1109/TMTT.2019.2903790",
+      "citationCount": 15,
+      "isNumber": "8752090",
+      "publicationYear": "2019",
+      "volume": "67",
+      "issue": "7",
+      "publicationNumber": "22",
+      "downloadCount": 990,
+      "htmlLink": "/document/8672826/",
+      "citationsLink": "/document/8672826/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "2903",
+      "startPage": "2894",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=22&title=Constant-+%24%7B%5Cepsilon%7D_%7Br%7D%24++Lens+Beamformer+for+Low-Complexity+Millimeter-Wave+Hybrid+MIMO&isbn=null&publicationDate=July+2019&author=Muhammad+Ali+Babar+Abbasi%3B+Vincent+F.+Fusco%3B+Harsh+Tataria%3B+Michail+Matthaiou&ContentID=10.1109/TMTT.2019.2903790&orderBeanReset=true&startPage=2894&endPage=2903&volumeNum=67&issueNum=7",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Constant-<inline-formula> <tex-math notation=\"LaTeX\">${\\epsilon}_{r}$ </tex-math></inline-formula> Lens Beamformer for Low-Complexity Millimeter-Wave Hybrid MIMO",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=22",
+      "pdfSize": "2204",
+      "publicationDate": "July 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "Constant-<inline-formula> <tex-math notation=\"LaTeX\">${\\epsilon}_{r}$ </tex-math></inline-formula> Lens Beamformer for Low-Complexity Millimeter-Wave Hybrid MIMO",
+      "abstract": "It is well established that the utilization of unused millimeter-wave (mmWave) spectrum is inevitable due to unavailability of required bandwidth in the conventional RF band to support the high data demands of 5G. Large antenna arrays with beamforming capabilities are required to compensate for the high path loss at mmWave frequencies. We are at the verge of a massive mmWave radio front-end deploy...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8672826",
+      "publicationTitle": "IEEE Transactions on Microwave Theory and Techniques",
+      "displayPublicationTitle": "IEEE Transactions on Microwave Theory and Techniques",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Anil Chepala",
+          "normalizedName": "A. Chepala",
+          "firstName": "Anil",
+          "lastName": "Chepala",
+          "searchablePreferredName": "Anil Chepala",
+          "id": 37085486648
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Vincent Fusco",
+          "normalizedName": "V. Fusco",
+          "firstName": "Vincent",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent Fusco",
+          "id": 37276686900
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8649600/",
+      "articleNumber": "8649600",
+      "doi": "10.1109/TAP.2019.2901092",
+      "citationCount": 0,
+      "isNumber": "8705603",
+      "publicationYear": "2019",
+      "volume": "67",
+      "issue": "5",
+      "publicationNumber": "8",
+      "downloadCount": 512,
+      "htmlLink": "/document/8649600/",
+      "showHtml": true,
+      "endPage": "3499",
+      "startPage": "3496",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=8&title=Beamspace+Modulated+Circular+Array&isbn=null&publicationDate=May+2019&author=Anil+Chepala%3B+Harsh+Tataria%3B+Vincent+Fusco&ContentID=10.1109/TAP.2019.2901092&orderBeanReset=true&startPage=3496&endPage=3499&volumeNum=67&issueNum=5",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Beamspace Modulated Circular Array",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=8",
+      "pdfSize": "898",
+      "publicationDate": "May 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "Beamspace Modulated Circular Array",
+      "abstract": "In this communication, we show how each independent spatial mode of a circular array (CA) can be individually encoded and collimated to yield high ergodic spectral sum efficiency of an uplink mobile communication system. We show that every mode generated with the help of Rotman lens is orthogonal to every other mode. This reduces the spatial cross coupling and thereby enhances data throughput. We ...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8649600",
+      "publicationTitle": "IEEE Transactions on Antennas and Propagation",
+      "displayPublicationTitle": "IEEE Transactions on Antennas and Propagation",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37275507300
+        },
+        {
+          "preferredName": "Hien Quoc Ngo",
+          "normalizedName": "H. Q. Ngo",
+          "firstName": "Hien Quoc",
+          "lastName": "Ngo",
+          "searchablePreferredName": "Hien Quoc Ngo",
+          "id": 38231185300
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8404130/",
+      "articleNumber": "8404130",
+      "doi": "10.1109/LWC.2018.2853131",
+      "citationCount": 16,
+      "isNumber": "8643663",
+      "publicationYear": "2019",
+      "volume": "8",
+      "issue": "1",
+      "publicationNumber": "5962382",
+      "downloadCount": 687,
+      "htmlLink": "/document/8404130/",
+      "citationsLink": "/document/8404130/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "64",
+      "startPage": "61",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=5962382&title=Does+Massive+MIMO+Fail+in+Ricean+Channels%3F&isbn=null&publicationDate=Feb.+2019&author=Michail+Matthaiou%3B+Peter+J.+Smith%3B+Hien+Quoc+Ngo%3B+Harsh+Tataria&ContentID=10.1109/LWC.2018.2853131&orderBeanReset=true&startPage=61&endPage=64&volumeNum=8&issueNum=1",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Does Massive MIMO Fail in Ricean Channels?",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=5962382",
+      "pdfSize": "403",
+      "publicationDate": "Feb. 2019",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "Does Massive MIMO Fail in Ricean Channels?",
+      "abstract": "Massive multiple-input multiple-output (MIMO) is now making its way to the standardization exercise of future 5G networks. Yet, there are still fundamental questions pertaining to the robustness of massive MIMO against physically detrimental propagation conditions. On these grounds, we identify potential scenarios under which massive MIMO can fail in Ricean channels, and characterize them physical...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8404130",
+      "publicationTitle": "IEEE Wireless Communications Letters",
+      "displayPublicationTitle": "IEEE Wireless Communications Letters",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Hien Quoc Ngo",
+          "normalizedName": "H. Q. Ngo",
+          "firstName": "Hien Quoc",
+          "lastName": "Ngo",
+          "searchablePreferredName": "Hien Quoc Ngo",
+          "id": 38231185300
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Shi Jin",
+          "normalizedName": "S. Jin",
+          "firstName": "Shi",
+          "lastName": "Jin",
+          "searchablePreferredName": "Shi Jin",
+          "id": 37290425400
+        },
+        {
+          "preferredName": "Erik G. Larsson",
+          "normalizedName": "E. G. Larsson",
+          "firstName": "Erik G.",
+          "lastName": "Larsson",
+          "searchablePreferredName": "Erik G. Larsson",
+          "id": 37268648900
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8645336/",
+      "articleNumber": "8645336",
+      "doi": "10.1109/ACSSC.2018.8645336",
+      "citationCount": 24,
+      "isNumber": "8645065",
+      "publicationYear": "2018",
+      "publicationNumber": "8638648",
+      "downloadCount": 664,
+      "htmlLink": "/document/8645336/",
+      "citationsLink": "/document/8645336/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "984",
+      "startPage": "980",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=On+the+Performance+of+Cell-Free+Massive+MIMO+in+Ricean+Fading&isbn=null&publicationDate=28-31+Oct.+2018&author=Hien+Quoc+Ngo%3B+Harsh+Tataria%3B+Michail+Matthaiou%3B+Shi+Jin%3B+Erik+G.+Larsson&ContentID=10.1109/ACSSC.2018.8645336&orderBeanReset=true&startPage=980&endPage=984&proceedingName=2018+52nd+Asilomar+Conference+on+Signals%2C+Systems%2C+and+Computers",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "On the Performance of Cell-Free Massive MIMO in Ricean Fading",
+      "publicationLink": "/xpl/conhome/8638648/proceeding",
+      "pdfSize": "180",
+      "publicationDate": "28-31 Oct. 2018",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "On the Performance of Cell-Free Massive MIMO in Ricean Fading",
+      "abstract": "We consider an uplink time-division duplex cell-free massive multiple-input multiple-output (MIMO) system in which many user equipments (UEs) are simultaneously served by many access points (APs) via simple matched filtering processing. The propagation channel is modeled via the Ricean distribution, which includes a dominant line-of-sight component on top of diffuse scattering. The Ricean K-factor...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8645336",
+      "publicationTitle": "2018 52nd Asilomar Conference on Signals, Systems, and Computers",
+      "displayPublicationTitle": "2018 52nd Asilomar Conference on Signals, Systems, and Computers",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Mansoor Shafi",
+          "normalizedName": "M. Shafi",
+          "firstName": "Mansoor",
+          "lastName": "Shafi",
+          "searchablePreferredName": "Mansoor Shafi",
+          "id": 37085680566
+        },
+        {
+          "preferredName": "Jianhua Zhang",
+          "normalizedName": "J. Zhang",
+          "firstName": "Jianhua",
+          "lastName": "Zhang",
+          "searchablePreferredName": "Jianhua Zhang",
+          "id": 37085807673
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Andreas F. Molisch",
+          "normalizedName": "A. F. Molisch",
+          "firstName": "Andreas F.",
+          "lastName": "Molisch",
+          "searchablePreferredName": "Andreas F. Molisch",
+          "id": 37279677800
+        },
+        {
+          "preferredName": "Shu Sun",
+          "normalizedName": "S. Sun",
+          "firstName": "Shu",
+          "lastName": "Sun",
+          "searchablePreferredName": "Shu Sun",
+          "id": 37086559786
+        },
+        {
+          "preferredName": "Theodore S. Rappaport",
+          "normalizedName": "T. S. Rappaport",
+          "firstName": "Theodore S.",
+          "lastName": "Rappaport",
+          "searchablePreferredName": "Theodore S. Rappaport",
+          "id": 37066710400
+        },
+        {
+          "preferredName": "Fredrik Tufvesson",
+          "normalizedName": "F. Tufvesson",
+          "firstName": "Fredrik",
+          "lastName": "Tufvesson",
+          "searchablePreferredName": "Fredrik Tufvesson",
+          "id": 37296876300
+        },
+        {
+          "preferredName": "Shangbin Wu",
+          "normalizedName": "S. Wu",
+          "firstName": "Shangbin",
+          "lastName": "Wu",
+          "searchablePreferredName": "Shangbin Wu",
+          "id": 37086554720
+        },
+        {
+          "preferredName": "Koshiro Kitao",
+          "normalizedName": "K. Kitao",
+          "firstName": "Koshiro",
+          "lastName": "Kitao",
+          "searchablePreferredName": "Koshiro Kitao",
+          "id": 37268148700
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8570034/",
+      "articleNumber": "8570034",
+      "doi": "10.1109/MCOM.2018.1800255",
+      "citationCount": 55,
+      "isNumber": "8570022",
+      "publicationYear": "2018",
+      "volume": "56",
+      "issue": "12",
+      "publicationNumber": "35",
+      "downloadCount": 3177,
+      "htmlLink": "/document/8570034/",
+      "citationsLink": "/document/8570034/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "20",
+      "startPage": "14",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=35&title=Microwave+vs.+Millimeter-Wave+Propagation+Channels%3A+Key+Differences+and+Impact+on+5G+Cellular+Systems&isbn=null&publicationDate=December+2018&author=Mansoor+Shafi%3B+Jianhua+Zhang%3B+Harsh+Tataria%3B+Andreas+F.+Molisch%3B+Shu+Sun%3B+Theodore+S.+Rappaport%3B+Fredrik+Tufvesson%3B+Shangbin+Wu%3B+Koshiro+Kitao&ContentID=10.1109/MCOM.2018.1800255&orderBeanReset=true&startPage=14&endPage=20&volumeNum=56&issueNum=12",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Microwave vs. Millimeter-Wave Propagation Channels: Key Differences and Impact on 5G Cellular Systems",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=35",
+      "pdfSize": "755",
+      "publicationDate": "December 2018",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Magazines",
+      "articleContentType": "Magazines",
+      "highlightedTitle": "Microwave vs. Millimeter-Wave Propagation Channels: Key Differences and Impact on 5G Cellular Systems",
+      "abstract": "Fifth generation cellular systems will be deployed in the microwave and millimeterwave (mmWave) frequency bands (i.e., between 0.5100 GHz). Propagation characteristics at these bands have a fundamental impact on each aspect of the cellular architecture, ranging from equipment design to real-time performance in the field. While we have a reasonable understanding of the propagation characteristics a...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8570034",
+      "publicationTitle": "IEEE Communications Magazine",
+      "displayPublicationTitle": "IEEE Communications Magazine",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Magazines",
+      "displayContentType": "Magazine Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "M. Ali Babar Abbasi",
+          "normalizedName": "M. A. Babar Abbasi",
+          "firstName": "M. Ali",
+          "lastName": "Babar Abbasi",
+          "searchablePreferredName": "M. Ali Babar Abbasi",
+          "id": 37085426798
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Vincent F. Fusco",
+          "normalizedName": "V. F. Fusco",
+          "firstName": "Vincent F.",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent F. Fusco",
+          "id": 37276686900
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8484443/",
+      "articleNumber": "8484443",
+      "doi": "10.1109/IMWS-5G.2018.8484443",
+      "citationCount": 8,
+      "isNumber": "8484299",
+      "publicationYear": "2018",
+      "publicationNumber": "8470025",
+      "downloadCount": 687,
+      "htmlLink": "/document/8484443/",
+      "citationsLink": "/document/8484443/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "3",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=On+the+Impact+of+Spillover+Losses+in+28+GHz+Rotman+Lens+Arrays+for+5G+Applications&isbn=null&publicationDate=30-31+Aug.+2018&author=M.+Ali+Babar+Abbasi%3B+Harsh+Tataria%3B+Vincent+F.+Fusco%3B+Michail+Matthaiou&ContentID=10.1109/IMWS-5G.2018.8484443&orderBeanReset=true&startPage=1&endPage=3&proceedingName=2018+IEEE+MTT-S+International+Microwave+Workshop+Series+on+5G+Hardware+and+System+Technologies+%28IMWS-5G%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "On the Impact of Spillover Losses in 28 GHz Rotman Lens Arrays for 5G Applications",
+      "publicationLink": "/xpl/conhome/8470025/proceeding",
+      "pdfSize": "1071",
+      "publicationDate": "30-31 Aug. 2018",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "On the Impact of Spillover Losses in 28 GHz Rotman Lens Arrays for 5G Applications",
+      "abstract": "This work demonstrates the sensitivity of lens antenna arrays operating at millimeter-wave (mmWave) frequencies. Considering a Rotman lens array in receive mode, our investigation focuses on its most imperative defect: aberration of electromagnetic (EM) energy. Aberration leads to spillover of electric fields to neighboring ports, reducing the lens&#39; ability to focus the EM energy to a desired port...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8484443",
+      "publicationTitle": "2018 IEEE MTT-S International Microwave Workshop Series on 5G Hardware and System Technologies (IMWS-5G)",
+      "displayPublicationTitle": "2018 IEEE MTT-S International Microwave Workshop Series on 5G Hardware and System Technologies (IMWS-5G)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Shu Sun",
+          "normalizedName": "S. Sun",
+          "firstName": "Shu",
+          "lastName": "Sun",
+          "searchablePreferredName": "Shu Sun",
+          "id": 37060898100
+        },
+        {
+          "preferredName": "Theodore S. Rappaport",
+          "normalizedName": "T. S. Rappaport",
+          "firstName": "Theodore S.",
+          "lastName": "Rappaport",
+          "searchablePreferredName": "Theodore S. Rappaport",
+          "id": 37066710400
+        },
+        {
+          "preferredName": "Mansoor Shafi",
+          "normalizedName": "M. Shafi",
+          "firstName": "Mansoor",
+          "lastName": "Shafi",
+          "searchablePreferredName": "Mansoor Shafi",
+          "id": 37085680566
+        },
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": { "type": "open-access", "message": "Open Access" },
+      "documentLink": "/document/8464682/",
+      "articleNumber": "8464682",
+      "doi": "10.1109/TWC.2018.2868096",
+      "citationCount": 15,
+      "isNumber": "8528717",
+      "publicationYear": "2018",
+      "volume": "17",
+      "issue": "11",
+      "publicationNumber": "7693",
+      "downloadCount": 2221,
+      "htmlLink": "/document/8464682/",
+      "citationsLink": "/document/8464682/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "7543",
+      "startPage": "7528",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7693&title=Analytical+Framework+of+Hybrid+Beamforming+in+Multi-Cell+Millimeter-Wave+Systems&isbn=null&publicationDate=Nov.+2018&author=Shu+Sun%3B+Theodore+S.+Rappaport%3B+Mansoor+Shafi%3B+Harsh+Tataria&ContentID=10.1109/TWC.2018.2868096&orderBeanReset=true&startPage=7528&endPage=7543&volumeNum=17&issueNum=11",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Analytical Framework of Hybrid Beamforming in Multi-Cell Millimeter-Wave Systems",
+      "publicationLink": "/xpl/RecentIssue.jsp?punumber=7693",
+      "pdfSize": "2923",
+      "publicationDate": "Nov. 2018",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Journals",
+      "articleContentType": "Journals",
+      "highlightedTitle": "Analytical Framework of Hybrid Beamforming in Multi-Cell Millimeter-Wave Systems",
+      "abstract": "Multi-cell wireless systems usually encounter both intra-cell and inter-cell interference, which can be mitigated via coordinated multipoint (CoMP) transmission. Previous works on multi-cell analysis in the microwave band generally consider fully digital beamforming, requiring a complete radio-frequency chain behind each antenna. This is practically infeasible for millimeter-wave (mmWave) systems ...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8464682",
+      "publicationTitle": "IEEE Transactions on Wireless Communications",
+      "displayPublicationTitle": "IEEE Transactions on Wireless Communications",
+      "isStandard": false,
+      "isJournalAndMagazine": true,
+      "isConference": false,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Journals",
+      "displayContentType": "Journal Article",
+      "isBookWithoutChapters": false
+    },
+    {
+      "authors": [
+        {
+          "preferredName": "Harsh Tataria",
+          "normalizedName": "H. Tataria",
+          "firstName": "Harsh",
+          "lastName": "Tataria",
+          "searchablePreferredName": "Harsh Tataria",
+          "id": 37085769730
+        },
+        {
+          "preferredName": "Michail Matthaiou",
+          "normalizedName": "M. Matthaiou",
+          "firstName": "Michail",
+          "lastName": "Matthaiou",
+          "searchablePreferredName": "Michail Matthaiou",
+          "id": 37396192400
+        },
+        {
+          "preferredName": "Peter J. Smith",
+          "normalizedName": "P. J. Smith",
+          "firstName": "Peter J.",
+          "lastName": "Smith",
+          "searchablePreferredName": "Peter J. Smith",
+          "id": 37085365018
+        },
+        {
+          "preferredName": "George c. Alexandropoulos",
+          "normalizedName": "G. c. Alexandropoulos",
+          "firstName": "George c.",
+          "lastName": "Alexandropoulos",
+          "searchablePreferredName": "George c. Alexandropoulos",
+          "id": 37296684100
+        },
+        {
+          "preferredName": "Vincent F. Fusco",
+          "normalizedName": "V. F. Fusco",
+          "firstName": "Vincent F.",
+          "lastName": "Fusco",
+          "searchablePreferredName": "Vincent F. Fusco",
+          "id": 37276686900
+        }
+      ],
+      "patentCitationCount": 0,
+      "accessType": {
+        "type": "locked",
+        "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+      },
+      "documentLink": "/document/8445998/",
+      "articleNumber": "8445998",
+      "doi": "10.1109/SPAWC.2018.8445998",
+      "citationCount": 5,
+      "isNumber": "8445765",
+      "publicationYear": "2018",
+      "publicationNumber": "8424401",
+      "downloadCount": 246,
+      "htmlLink": "/document/8445998/",
+      "citationsLink": "/document/8445998/citations?tabFilter=papers",
+      "showHtml": true,
+      "endPage": "5",
+      "startPage": "1",
+      "rightslinkFlag": true,
+      "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Impact+of+RF+Processing+and+Switching+Errors+in+Lens-Based+Massive+MIMO+Systems&isbn=null&publicationDate=25-28+June+2018&author=Harsh+Tataria%3B+Michail+Matthaiou%3B+Peter+J.+Smith%3B+George+c.+Alexandropoulos%3B+Vincent+F.+Fusco&ContentID=10.1109/SPAWC.2018.8445998&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2018+IEEE+19th+International+Workshop+on+Signal+Processing+Advances+in+Wireless+Communications+%28SPAWC%29",
+      "showAlgorithm": false,
+      "showDataset": false,
+      "showVideo": false,
+      "ephemera": false,
+      "vj": false,
+      "articleTitle": "Impact of RF Processing and Switching Errors in Lens-Based Massive MIMO Systems",
+      "publicationLink": "/xpl/conhome/8424401/proceeding",
+      "pdfSize": "146",
+      "publicationDate": "25-28 June 2018",
+      "publisher": "IEEE",
+      "handleProduct": false,
+      "showCheckbox": true,
+      "redline": false,
+      "contentType": "IEEE Conferences",
+      "articleContentType": "Conferences",
+      "highlightedTitle": "Impact of RF Processing and Switching Errors in Lens-Based Massive MIMO Systems",
+      "abstract": "Lens-based massive multiple-input multiple-output (MIMO) systems have considerable potential to reduce signal processing cost at millimeter-wave frequencies. As a result, they are able to lower the effective channel dimension via beam selection, realized with a network of radio-frequency (RF) switches. However, lens arrays suffer from the inherent quantization of the beamspace, as well as errors d...",
+      "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8445998",
+      "publicationTitle": "2018 IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+      "displayPublicationTitle": "2018 IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+      "isStandard": false,
+      "isJournalAndMagazine": false,
+      "isConference": true,
+      "isEarlyAccess": false,
+      "isMagazine": false,
+      "isJournal": false,
+      "isBook": false,
+      "course": false,
+      "docIdentifier": "IEEE Conferences",
+      "displayContentType": "Conference Paper",
+      "isBookWithoutChapters": false
+    }
+  ],
+  "breadCrumbs": [
+    {
+      "type": "search",
+      "children": [
+        {
+          "key": "\"Author Ids\"",
+          "value": "37085769730",
+          "reference": "authorIds:37085769730",
+          "display": "\"Author Ids\":37085769730"
+        }
+      ]
+    }
+  ],
+  "showStandardDictionary": false,
+  "searchType": "author",
+  "totalRecords": 34,
+  "facets": [
+    {
+      "id": "ContentType",
+      "name": "Content Type",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "ContentType:Conferences",
+          "name": "Conferences",
+          "numRecords": 23,
+          "active": "true"
+        },
+        {
+          "id": "ContentType:Journals",
+          "name": "Journals",
+          "numRecords": 10,
+          "active": "true"
+        },
+        {
+          "id": "ContentType:Magazines",
+          "name": "Magazines",
+          "numRecords": 1,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "PublicationYear",
+      "name": "Year",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "PublicationYear:2014",
+          "name": "2014",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationYear:2016",
+          "name": "2016",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "PublicationYear:2017",
+          "name": "2017",
+          "numRecords": 4,
+          "active": "true"
+        },
+        {
+          "id": "PublicationYear:2018",
+          "name": "2018",
+          "numRecords": 7,
+          "active": "true"
+        },
+        {
+          "id": "PublicationYear:2019",
+          "name": "2019",
+          "numRecords": 10,
+          "active": "true"
+        },
+        {
+          "id": "PublicationYear:2020",
+          "name": "2020",
+          "numRecords": 9,
+          "active": "true"
+        },
+        {
+          "id": "PublicationYear:2021",
+          "name": "2021",
+          "numRecords": 1,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "Author",
+      "name": "Author",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "Author:Harsh Tataria",
+          "name": "Harsh Tataria",
+          "numRecords": 34,
+          "active": "true"
+        },
+        {
+          "id": "Author:Peter J. Smith",
+          "name": "Peter J. Smith",
+          "numRecords": 18,
+          "active": "true"
+        },
+        {
+          "id": "Author:Michail Matthaiou",
+          "name": "Michail Matthaiou",
+          "numRecords": 17,
+          "active": "true"
+        },
+        {
+          "id": "Author:Pawel A. Dmochowski",
+          "name": "Pawel A. Dmochowski",
+          "numRecords": 13,
+          "active": "true"
+        },
+        {
+          "id": "Author:Fredrik Tufvesson",
+          "name": "Fredrik Tufvesson",
+          "numRecords": 7,
+          "active": "true"
+        },
+        {
+          "id": "Author:Mansoor Shafi",
+          "name": "Mansoor Shafi",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "Author:Vincent F. Fusco",
+          "name": "Vincent F. Fusco",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "Author:Andreas F. Molisch",
+          "name": "Andreas F. Molisch",
+          "numRecords": 5,
+          "active": "true"
+        },
+        {
+          "id": "Author:Hien Quoc Ngo",
+          "name": "Hien Quoc Ngo",
+          "numRecords": 4,
+          "active": "true"
+        },
+        {
+          "id": "Author:Larry J. Greenstein",
+          "name": "Larry J. Greenstein",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "Author:M. Ali Babar Abbasi",
+          "name": "M. Ali Babar Abbasi",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "Author:George C. Alexandropoulos",
+          "name": "George C. Alexandropoulos",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Vincent Fusco",
+          "name": "Vincent Fusco",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Theodore S. Rappaport",
+          "name": "Theodore S. Rappaport",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Shi Jin",
+          "name": "Shi Jin",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Shuang Li",
+          "name": "Shuang Li",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Jingwei Yin",
+          "name": "Jingwei Yin",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Shu Sun",
+          "name": "Shu Sun",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Author:Anil Chepala",
+          "name": "Anil Chepala",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Author:Erik Bengtsson",
+          "name": "Erik Bengtsson",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Author:Zhinong Ying",
+          "name": "Zhinong Ying",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Author:Chelsea Lee Miller",
+          "name": "Chelsea Lee Miller",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Author:Geoff Tunnicliffe",
+          "name": "Geoff Tunnicliffe",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Author:Shangbin Wu",
+          "name": "Shangbin Wu",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Author:Seun Sangodoyin",
+          "name": "Seun Sangodoyin",
+          "numRecords": 1,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "Affiliation",
+      "name": "Affiliation",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "Affiliation:School of Mathematics and Statistics, Victoria University of Wellington, Wellington, New Zealand",
+          "name": "School of Mathematics and Statistics, Victoria University of Wellington, Wellington, New Zealand",
+          "numRecords": 9,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand",
+          "name": "School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand",
+          "numRecords": 9,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Lund University,Department of Electrical and Information Technology,Lund,Sweden",
+          "name": "Lund University,Department of Electrical and Information Technology,Lund,Sweden",
+          "numRecords": 8,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Institute of Electronics, Communications and Information Technology (ECIT), Queen’s University Belfast, Belfast, U.K.",
+          "name": "Institute of Electronics, Communications and Information Technology (ECIT), Queen’s University Belfast, Belfast, U.K.",
+          "numRecords": 5,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Spark New Zealand, Wellington, New Zealand",
+          "name": "Spark New Zealand, Wellington, New Zealand",
+          "numRecords": 4,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Sch. of Math. .AND. Stat., Victoria Univ. of Wellington, Wellington, New Zealand",
+          "name": "Sch. of Math. & Stat., Victoria Univ. of Wellington, Wellington, New Zealand",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Victoria University of Wellington,School of Mathematics and Statistics,Wellington,New Zealand",
+          "name": "Victoria University of Wellington,School of Mathematics and Statistics,Wellington,New Zealand",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Sch. of Eng. .AND. Comput. Sci., Victoria Univ. of Wellington, Wellington, New Zealand",
+          "name": "Sch. of Eng. & Comput. Sci., Victoria Univ. of Wellington, Wellington, New Zealand",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Department of Electrical and Information Technology, Lund University, Lund, Sweden",
+          "name": "Department of Electrical and Information Technology, Lund University, Lund, Sweden",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:National Mobile Communications Research Laboratory, Southeast University, Nanjing, P. R. China",
+          "name": "National Mobile Communications Research Laboratory, Southeast University, Nanjing, P. R. China",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Victoria University of Wellington,School of Engineering and Computer Science,Wellington,New Zealand",
+          "name": "Victoria University of Wellington,School of Engineering and Computer Science,Wellington,New Zealand",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:University of Southern California,Department of Electrical Engineering,Los Angeles,CA,USA",
+          "name": "University of Southern California,Department of Electrical Engineering,Los Angeles,CA,USA",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Department of Electrical Engineering, Lund University, Lund, Sweden",
+          "name": "Department of Electrical Engineering, Lund University, Lund, Sweden",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Dept. of Electr. .AND. Inf. Technol., Lund Univ., Lund, Sweden",
+          "name": "Dept. of Electr. & Inf. Technol., Lund Univ., Lund, Sweden",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Institute of Electronics, Communications, and Information Technology, Queen’s University Belfast, Belfast, U.K.",
+          "name": "Institute of Electronics, Communications, and Information Technology, Queen’s University Belfast, Belfast, U.K.",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Wireless Information Network Laboratory, Rutgers University, North Brunswick, NJ, USA",
+          "name": "Wireless Information Network Laboratory, Rutgers University, North Brunswick, NJ, USA",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Inst. of Electron., Commun. .AND. Inf. Technol., Queen's Univ. Belfast, Belfast, UK",
+          "name": "Inst. of Electron., Commun. & Inf. Technol., Queen's Univ. Belfast, Belfast, UK",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Inst. of Electron., Queen's Univ. Belfast, Belfast, UK",
+          "name": "Inst. of Electron., Queen's Univ. Belfast, Belfast, UK",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Institute of Electronics, Communications and Information Technology, Queen's University Belfast, Belfast, U.K.",
+          "name": "Institute of Electronics, Communications and Information Technology, Queen's University Belfast, Belfast, U.K.",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Math. .AND. Algorithmic Sci. Lab., Huawei Technol. France SASU, Paris, France",
+          "name": "Math. & Algorithmic Sci. Lab., Huawei Technol. France SASU, Paris, France",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Coll. of Underwater Acoust. Eng., Harbin Eng. Univ., Harbin, China",
+          "name": "Coll. of Underwater Acoust. Eng., Harbin Eng. Univ., Harbin, China",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Institute of Electronics, Queen’s University Belfast, Belfast, U.K",
+          "name": "Institute of Electronics, Queen’s University Belfast, Belfast, U.K",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:University of Bristol,school of Mathematics,Bristol,U.K.",
+          "name": "University of Bristol,school of Mathematics,Bristol,U.K.",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Georgia Institute of Technology,School of Electrical and Computer Engineering,Atlanta,GA,USA",
+          "name": "Georgia Institute of Technology,School of Electrical and Computer Engineering,Atlanta,GA,USA",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "Affiliation:Queen’s University Belfast,ECIT,Belfast,U.K,BT3 9DT",
+          "name": "Queen’s University Belfast,ECIT,Belfast,U.K,BT3 9DT",
+          "numRecords": 1,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "PublicationTitle",
+      "name": "Publication Title",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "PublicationTitle:ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+          "name": "ICC 2020 - 2020 IEEE International Conference on Communications (ICC)",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Wireless Communications Letters",
+          "name": "IEEE Wireless Communications Letters",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2016 IEEE International Conference on Communications (ICC)",
+          "name": "2016 IEEE International Conference on Communications (ICC)",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2018 IEEE International Conference on Communications (ICC)",
+          "name": "2018 IEEE International Conference on Communications (ICC)",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2020 14th European Conference on Antennas and Propagation (EuCAP)",
+          "name": "2020 14th European Conference on Antennas and Propagation (EuCAP)",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+          "name": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Transactions on Wireless Communications",
+          "name": "IEEE Transactions on Wireless Communications",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2014 IEEE Workshop on Statistical Signal Processing (SSP)",
+          "name": "2014 IEEE Workshop on Statistical Signal Processing (SSP)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2017 IEEE International Conference on Communications (ICC)",
+          "name": "2017 IEEE International Conference on Communications (ICC)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2018 52nd Asilomar Conference on Signals, Systems, and Computers",
+          "name": "2018 52nd Asilomar Conference on Signals, Systems, and Computers",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2018 IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+          "name": "2018 IEEE 19th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2018 IEEE MTT-S International Microwave Workshop Series on 5G Hardware and System Technologies (IMWS-5G)",
+          "name": "2018 IEEE MTT-S International Microwave Workshop Series on 5G Hardware and System Technologies (IMWS-5G)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2019 13th European Conference on Antennas and Propagation (EuCAP)",
+          "name": "2019 13th European Conference on Antennas and Propagation (EuCAP)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2019 16th International Symposium on Wireless Communication Systems (ISWCS)",
+          "name": "2019 16th International Symposium on Wireless Communication Systems (ISWCS)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+          "name": "2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+          "name": "2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications",
+          "name": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting",
+          "name": "2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+          "name": "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Communications Magazine",
+          "name": "IEEE Communications Magazine",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Journal of Selected Topics in Signal Processing",
+          "name": "IEEE Journal of Selected Topics in Signal Processing",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Transactions on Antennas and Propagation",
+          "name": "IEEE Transactions on Antennas and Propagation",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Transactions on Communications",
+          "name": "IEEE Transactions on Communications",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:IEEE Transactions on Microwave Theory and Techniques",
+          "name": "IEEE Transactions on Microwave Theory and Techniques",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "PublicationTitle:Proceedings of the IEEE",
+          "name": "Proceedings of the IEEE",
+          "numRecords": 1,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "Publisher",
+      "name": "Publisher",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "Publisher:IEEE",
+          "name": "IEEE",
+          "numRecords": 34,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "ConferenceLocation",
+      "name": "Conference Location",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "ConferenceLocation:Dublin, Ireland",
+          "name": "Dublin, Ireland",
+          "numRecords": 4,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Copenhagen, Denmark",
+          "name": "Copenhagen, Denmark",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Kansas City, MO, USA",
+          "name": "Kansas City, MO, USA",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Kuala Lumpur, Malaysia",
+          "name": "Kuala Lumpur, Malaysia",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Shanghai, China",
+          "name": "Shanghai, China",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Barcelona, Spain",
+          "name": "Barcelona, Spain",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Cannes, France",
+          "name": "Cannes, France",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Gold Coast, QLD, Australia",
+          "name": "Gold Coast, QLD, Australia",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Istanbul, Turkey",
+          "name": "Istanbul, Turkey",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Kalamata, Greece",
+          "name": "Kalamata, Greece",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Krakow, Poland",
+          "name": "Krakow, Poland",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:London, UK",
+          "name": "London, UK",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Montreal, QC, Canada",
+          "name": "Montreal, QC, Canada",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Oulu, Finland",
+          "name": "Oulu, Finland",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Pacific Grove, CA, USA",
+          "name": "Pacific Grove, CA, USA",
+          "numRecords": 1,
+          "active": "true"
+        },
+        {
+          "id": "ConferenceLocation:Paris, France",
+          "name": "Paris, France",
+          "numRecords": 1,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    },
+    {
+      "id": "ControlledTerms",
+      "name": "Publication Topics",
+      "numRecords": -1,
+      "children": [
+        {
+          "id": "ControlledTerms:MIMO communication",
+          "name": "MIMO communication",
+          "numRecords": 28,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:cellular radio",
+          "name": "cellular radio",
+          "numRecords": 10,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:Rician channels",
+          "name": "Rician channels",
+          "numRecords": 8,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:array signal processing",
+          "name": "array signal processing",
+          "numRecords": 8,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:radiofrequency interference",
+          "name": "radiofrequency interference",
+          "numRecords": 8,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:antenna arrays",
+          "name": "antenna arrays",
+          "numRecords": 7,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:multi-access systems",
+          "name": "multi-access systems",
+          "numRecords": 7,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:approximation theory",
+          "name": "approximation theory",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:diversity reception",
+          "name": "diversity reception",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:linear antenna arrays",
+          "name": "linear antenna arrays",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:matrix algebra",
+          "name": "matrix algebra",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:millimetre wave communication",
+          "name": "millimetre wave communication",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:radiowave propagation",
+          "name": "radiowave propagation",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:wireless channels",
+          "name": "wireless channels",
+          "numRecords": 6,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:5G mobile communication",
+          "name": "5G mobile communication",
+          "numRecords": 5,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:eigenvalues and eigenfunctions",
+          "name": "eigenvalues and eigenfunctions",
+          "numRecords": 5,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:precoding",
+          "name": "precoding",
+          "numRecords": 5,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:radio spectrum management",
+          "name": "radio spectrum management",
+          "numRecords": 5,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:millimetre wave antenna arrays",
+          "name": "millimetre wave antenna arrays",
+          "numRecords": 4,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:Rayleigh channels",
+          "name": "Rayleigh channels",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:correlation methods",
+          "name": "correlation methods",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:interference suppression",
+          "name": "interference suppression",
+          "numRecords": 3,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:3G mobile communication",
+          "name": "3G mobile communication",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:antenna radiation patterns",
+          "name": "antenna radiation patterns",
+          "numRecords": 2,
+          "active": "true"
+        },
+        {
+          "id": "ControlledTerms:direction-of-arrival estimation",
+          "name": "direction-of-arrival estimation",
+          "numRecords": 2,
+          "active": "true"
+        }
+      ],
+      "active": "true"
+    }
+  ],
+  "promoApplied": false,
+  "totalPages": 2,
+  "startRecord": 0,
+  "subscribedContentApplied": false,
+  "endRecord": 25
+}
